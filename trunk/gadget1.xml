@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
   <ModulePrefs title="Commitments" /> 
-  <Content type="url" href="http://qacommitkeeperapi.appspot.com/ajax2.html" /> 
+  <Content type="url" href="http://qacommitkeeperapi.appspot.com/v2/ajax/index.html" /> 
 </Module>
