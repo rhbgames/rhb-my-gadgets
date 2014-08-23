@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
   <ModulePrefs title="Commitments" height="300" scrolling="true"/> 
-  <Content type="url" href="http://commitkeeperapi.appspot.com/v2/ajax/index.html" /> 
+  <Content type="url" href="https://commitkeeperapi.appspot.com/v2/ajax/index.html" /> 
 </Module>
